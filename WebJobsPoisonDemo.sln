@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebJobsPoisonDemo", "WebJobsPoisonDemo\WebJobsPoisonDemo.csproj", "{14574C0E-5AAB-4DF7-838D-54C8781F0854}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SampleJSON", "SampleJSON", "{F6E3D6FF-443E-4E2F-8384-6FAE7E6389A6}"
+	ProjectSection(SolutionItems) = preProject
+		SampleJSON\ConvertImage.json = SampleJSON\ConvertImage.json
+		SampleJSON\GrayscaleImage.json = SampleJSON\GrayscaleImage.json
+		SampleJSON\ResizeImage.json = SampleJSON\ResizeImage.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "README", "README", "{61CAAC30-E454-4647-A722-7A0552BEFCA6}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14574C0E-5AAB-4DF7-838D-54C8781F0854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14574C0E-5AAB-4DF7-838D-54C8781F0854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14574C0E-5AAB-4DF7-838D-54C8781F0854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14574C0E-5AAB-4DF7-838D-54C8781F0854}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
