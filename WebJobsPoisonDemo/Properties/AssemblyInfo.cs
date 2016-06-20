@@ -13,7 +13,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("WebJobsPoisonDemo")]
-[assembly: AssemblyDescription("An Azure-queue focused poison-message handling demo")]
+[assembly: AssemblyDescription("An Azure WebJobs focused poison-message handling demo")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("SquidEyes, LLC")]
 [assembly: AssemblyProduct("WebJobsPoisonDemo")]
